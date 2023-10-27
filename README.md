@@ -1,24 +1,16 @@
 # README
+RailsのプロジェクトをDocker化する課題
+起動方法を記載します。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. gitcloneでリポジトリのファイルをローカルに持ってくる
+```bash
+git clone (repository URL) → git@githubから始まるやつです
+```
 
-Things you may want to cover:
+2. rails-docker/でアプリを起動
+  ```bash
+  docker-compose up
+  ```
+3. ブラウザに　localhost:3000　と入力してください。アプリの画面が出力されます。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4. ctrl + c　でアプリを終了することができます。
