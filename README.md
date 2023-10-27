@@ -1,5 +1,5 @@
 # README
-RailsのプロジェクトをDocker化する課題
+RailsのプロジェクトをDocker化する課題  
 起動方法を記載します。
 
 1. gitcloneでリポジトリのファイルをローカルに持ってくる
