@@ -1,6 +1,7 @@
 # README
-RailsのプロジェクトをDocker化する課題  
-起動方法を記載します。
+RailsのプロジェクトをDocker化
+
+起動方法
 
 1. gitcloneでリポジトリのファイルをローカルに持ってくる
 ```bash
